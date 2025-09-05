@@ -20,8 +20,7 @@ It is designed to simplify the process of managing passport applications, approv
 ## 🛠️ Tech Stack
 **Frontend**
 - React.js  
-- Axios (for API calls)  
-- TailwindCSS / Bootstrap (for UI styling)  
+- Bootstrap (for UI styling)  
 
 **Backend**
 - Java 17  
